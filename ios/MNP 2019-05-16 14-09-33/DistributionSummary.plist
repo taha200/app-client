@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MNP.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>FF8195466D72A17F9F734A963E029FE87BCFCC3C</string>
+				<key>dateExpires</key>
+				<string>12/02/20</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NF47B74D2S.com.evince.eatance</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NF47B74D2S</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>NF47B74D2S.com.evince.eatance</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>MNP.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b1efb98e-bed3-4196-8592-6ee1fb973d14</string>
+				<key>name</key>
+				<string>Eatance_Adhoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NF47B74D2S</string>
+				<key>name</key>
+				<string>Evince Development</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

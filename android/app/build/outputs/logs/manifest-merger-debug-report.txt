@@ -1,0 +1,689 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:grantUriPermissions
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:31:13-47
+	android:authorities
+		INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:29:13-60
+	android:exported
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:28:13-67
+manifest
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:1:1-64:12
+MERGED from [:react-native-firebase] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-permissions] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-android-location-services-dialog-box] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-android-location-services-dialog-box\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-maps] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-image-picker] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9c30664b8ec5059368a75632d30bfcc8\multidex-1.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\dcbce6d5be78027c69c60b4176702a2a\react-native-0.57.8\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\dbf61ec65a6b715d41ca9dd6222a9c0f\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\97547c8258e27d7cf33c91846562b313\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c63f88b519e110a83de3f9a6f7be0a53\firebase-messaging-15.0.2\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\fe7ceba37aa07efe6e581f5575986a49\firebase-core-15.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2626dbe6e0ef4625a8653ec9be3d62d7\play-services-flags-15.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\74fd29dcf185e12f57ee9177d05dd9ec\firebase-iid-interop-15.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\59eedc17a108754ef1bac2da19cdcf83\play-services-base-16.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:2:1-52:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9f1e3014ed2876cbcb38025bf57a036a\android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\7b51fc034a702081b2a4755c0ab26251\firebase-common-15.0.1\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\5854aaf85205e6c1e82bcaf5a241cd81\firebase-measurement-connector-15.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9acf5404149d47ebfbd64014d390b785\play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f040e15ba01a1d14541ab478e0f52cbf\play-services-stats-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\8f0aff287cc341d7ba8334ca549deba9\play-services-ads-identifier-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ab17cc96a21bfb47cc094914a65cec3f\play-services-basement-16.2.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\bdba36f3c40fad738c8acf441474a8ca\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\e09007124312203cf93a6cb5d75fe3c3\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f6768eb590c00a1c03ffc04123b65ad6\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\48ebce68d4f41bdeca24342c66589185\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\30b993598abb607c4b3190ff8a0530b1\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2d8d01f3d450e7e09af580752e161ecf\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ef707d35660952764255e38336c767a0\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\e1784b15428f42476ff1b6d954f32526\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3968570c105e61944338860b1ba0a121\fresco-1.10.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\086b5010be1be95c12d3c5b4b485122d\imagepipeline-okhttp3-1.10.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\6e4ea079b5db063e8f28b9f1804ce693\drawee-1.10.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\69c958f6d96ad60f294b325f4735c4e4\imagepipeline-1.10.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\b933270cc574379a518ffb74e3670356\imagepipeline-base-1.10.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\996a935fe25d4dc7a8b2431cbbc5ff1a\soloader-0.5.1\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\5d9cf13899cd2f41896fd9d76677c681\android-jsc-r174650\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\aef161e0e0da1746ba60a0ce25a589c1\fbcore-1.10.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\b80d1a34d2c980f4609421389d5031ee\play-services-measurement-base-15.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f2aef189e22cf7f25e73dbe889febbd4\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f447347b560a1a9a43a69a495860d79c\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\6a153f73d02941a7a4a8b4f7dc81a3cf\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\eaa0c5e611e13d442dbee0f2ae39cbae\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:1:1-64:12
+	package
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:1:1-64:12
+		INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:1:1-64:12
+		INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-maps] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:5:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\dcbce6d5be78027c69c60b4176702a2a\react-native-0.57.8\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\dcbce6d5be78027c69c60b4176702a2a\react-native-0.57.8\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [:react-native-android-location-services-dialog-box] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-android-location-services-dialog-box\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+MERGED from [:react-native-android-location-services-dialog-box] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-android-location-services-dialog-box\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [:react-native-android-location-services-dialog-box] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-android-location-services-dialog-box\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+MERGED from [:react-native-android-location-services-dialog-box] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-android-location-services-dialog-box\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+MERGED from [:react-native-maps] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+MERGED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:13:5-62:19
+MERGED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-26:19
+MERGED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-26:19
+MERGED from [:react-native-image-picker] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\dcbce6d5be78027c69c60b4176702a2a\react-native-0.57.8\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\dcbce6d5be78027c69c60b4176702a2a\react-native-0.57.8\AndroidManifest.xml:13:5-20
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c63f88b519e110a83de3f9a6f7be0a53\firebase-messaging-15.0.2\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c63f88b519e110a83de3f9a6f7be0a53\firebase-messaging-15.0.2\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\fe7ceba37aa07efe6e581f5575986a49\firebase-core-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\fe7ceba37aa07efe6e581f5575986a49\firebase-core-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\74fd29dcf185e12f57ee9177d05dd9ec\firebase-iid-interop-15.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\74fd29dcf185e12f57ee9177d05dd9ec\firebase-iid-interop-15.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\59eedc17a108754ef1bac2da19cdcf83\play-services-base-16.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\59eedc17a108754ef1bac2da19cdcf83\play-services-base-16.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9f1e3014ed2876cbcb38025bf57a036a\android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9f1e3014ed2876cbcb38025bf57a036a\android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\7b51fc034a702081b2a4755c0ab26251\firebase-common-15.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\7b51fc034a702081b2a4755c0ab26251\firebase-common-15.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\5854aaf85205e6c1e82bcaf5a241cd81\firebase-measurement-connector-15.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\5854aaf85205e6c1e82bcaf5a241cd81\firebase-measurement-connector-15.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9acf5404149d47ebfbd64014d390b785\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9acf5404149d47ebfbd64014d390b785\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f040e15ba01a1d14541ab478e0f52cbf\play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f040e15ba01a1d14541ab478e0f52cbf\play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\8f0aff287cc341d7ba8334ca549deba9\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\8f0aff287cc341d7ba8334ca549deba9\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ab17cc96a21bfb47cc094914a65cec3f\play-services-basement-16.2.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ab17cc96a21bfb47cc094914a65cec3f\play-services-basement-16.2.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\bdba36f3c40fad738c8acf441474a8ca\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\bdba36f3c40fad738c8acf441474a8ca\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ef707d35660952764255e38336c767a0\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ef707d35660952764255e38336c767a0\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\996a935fe25d4dc7a8b2431cbbc5ff1a\soloader-0.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\996a935fe25d4dc7a8b2431cbbc5ff1a\soloader-0.5.1\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\5d9cf13899cd2f41896fd9d76677c681\android-jsc-r174650\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\5d9cf13899cd2f41896fd9d76677c681\android-jsc-r174650\AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\b80d1a34d2c980f4609421389d5031ee\play-services-measurement-base-15.0.2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\b80d1a34d2c980f4609421389d5031ee\play-services-measurement-base-15.0.2\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:16:9-49
+	android:allowBackup
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:15:9-36
+	android:theme
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:14:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:20:9-22:71
+	android:value
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:22:13-68
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:21:13-58
+meta-data#com.google.android.gms.version
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9f1e3014ed2876cbcb38025bf57a036a\android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9f1e3014ed2876cbcb38025bf57a036a\android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ab17cc96a21bfb47cc094914a65cec3f\play-services-basement-16.2.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ab17cc96a21bfb47cc094914a65cec3f\play-services-basement-16.2.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:24:13-58
+activity#com.thinksolutionz.foodies.MainActivity
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:37:9-48:20
+	android:screenOrientation
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:40:13-45
+	android:launchMode
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:41:13-44
+	android:windowSoftInputMode
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:42:13-52
+	android:configChanges
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:39:13-83
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:38:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:49:9-86
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:49:19-83
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:51:9-55:19
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:51:18-91
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:52:13-54:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:53:17-78
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:53:25-75
+service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:56:9-60:19
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:56:18-92
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:57:13-59:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:58:17-80
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:58:25-77
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:61:9-104
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:61:18-101
+uses-sdk
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-firebase] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-permissions] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-location-services-dialog-box] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-android-location-services-dialog-box\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-android-location-services-dialog-box] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-android-location-services-dialog-box\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-maps] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9c30664b8ec5059368a75632d30bfcc8\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9c30664b8ec5059368a75632d30bfcc8\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\dcbce6d5be78027c69c60b4176702a2a\react-native-0.57.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\dcbce6d5be78027c69c60b4176702a2a\react-native-0.57.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\dbf61ec65a6b715d41ca9dd6222a9c0f\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\dbf61ec65a6b715d41ca9dd6222a9c0f\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\97547c8258e27d7cf33c91846562b313\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\97547c8258e27d7cf33c91846562b313\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c63f88b519e110a83de3f9a6f7be0a53\firebase-messaging-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c63f88b519e110a83de3f9a6f7be0a53\firebase-messaging-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\fe7ceba37aa07efe6e581f5575986a49\firebase-core-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\fe7ceba37aa07efe6e581f5575986a49\firebase-core-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2626dbe6e0ef4625a8653ec9be3d62d7\play-services-flags-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2626dbe6e0ef4625a8653ec9be3d62d7\play-services-flags-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\74fd29dcf185e12f57ee9177d05dd9ec\firebase-iid-interop-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\74fd29dcf185e12f57ee9177d05dd9ec\firebase-iid-interop-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\59eedc17a108754ef1bac2da19cdcf83\play-services-base-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\59eedc17a108754ef1bac2da19cdcf83\play-services-base-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9f1e3014ed2876cbcb38025bf57a036a\android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9f1e3014ed2876cbcb38025bf57a036a\android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\7b51fc034a702081b2a4755c0ab26251\firebase-common-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\7b51fc034a702081b2a4755c0ab26251\firebase-common-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\5854aaf85205e6c1e82bcaf5a241cd81\firebase-measurement-connector-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\5854aaf85205e6c1e82bcaf5a241cd81\firebase-measurement-connector-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9acf5404149d47ebfbd64014d390b785\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\9acf5404149d47ebfbd64014d390b785\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f040e15ba01a1d14541ab478e0f52cbf\play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f040e15ba01a1d14541ab478e0f52cbf\play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\8f0aff287cc341d7ba8334ca549deba9\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\8f0aff287cc341d7ba8334ca549deba9\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ab17cc96a21bfb47cc094914a65cec3f\play-services-basement-16.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ab17cc96a21bfb47cc094914a65cec3f\play-services-basement-16.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\bdba36f3c40fad738c8acf441474a8ca\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\bdba36f3c40fad738c8acf441474a8ca\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\e09007124312203cf93a6cb5d75fe3c3\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\e09007124312203cf93a6cb5d75fe3c3\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f6768eb590c00a1c03ffc04123b65ad6\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f6768eb590c00a1c03ffc04123b65ad6\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\48ebce68d4f41bdeca24342c66589185\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\48ebce68d4f41bdeca24342c66589185\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\30b993598abb607c4b3190ff8a0530b1\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\30b993598abb607c4b3190ff8a0530b1\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2d8d01f3d450e7e09af580752e161ecf\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2d8d01f3d450e7e09af580752e161ecf\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ef707d35660952764255e38336c767a0\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ef707d35660952764255e38336c767a0\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\e1784b15428f42476ff1b6d954f32526\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\e1784b15428f42476ff1b6d954f32526\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3968570c105e61944338860b1ba0a121\fresco-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3968570c105e61944338860b1ba0a121\fresco-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\086b5010be1be95c12d3c5b4b485122d\imagepipeline-okhttp3-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\086b5010be1be95c12d3c5b4b485122d\imagepipeline-okhttp3-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\6e4ea079b5db063e8f28b9f1804ce693\drawee-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\6e4ea079b5db063e8f28b9f1804ce693\drawee-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\69c958f6d96ad60f294b325f4735c4e4\imagepipeline-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\69c958f6d96ad60f294b325f4735c4e4\imagepipeline-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\b933270cc574379a518ffb74e3670356\imagepipeline-base-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\b933270cc574379a518ffb74e3670356\imagepipeline-base-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\996a935fe25d4dc7a8b2431cbbc5ff1a\soloader-0.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\996a935fe25d4dc7a8b2431cbbc5ff1a\soloader-0.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\aef161e0e0da1746ba60a0ce25a589c1\fbcore-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\aef161e0e0da1746ba60a0ce25a589c1\fbcore-1.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\b80d1a34d2c980f4609421389d5031ee\play-services-measurement-base-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\b80d1a34d2c980f4609421389d5031ee\play-services-measurement-base-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f2aef189e22cf7f25e73dbe889febbd4\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f2aef189e22cf7f25e73dbe889febbd4\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f447347b560a1a9a43a69a495860d79c\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\f447347b560a1a9a43a69a495860d79c\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\6a153f73d02941a7a4a8b4f7dc81a3cf\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\6a153f73d02941a7a4a8b4f7dc81a3cf\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\eaa0c5e611e13d442dbee0f2ae39cbae\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\eaa0c5e611e13d442dbee0f2ae39cbae\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\bdba36f3c40fad738c8acf441474a8ca\support-v4-26.1.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:32:13-34:53
+	android:resource
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:34:17-50
+	android:name
+		ADDED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:33:17-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:react-native-firebase] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-65
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-25:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-47
+	android:authorities
+		ADDED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-72
+	android:exported
+		ADDED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	tools:replace
+		ADDED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-48
+	android:name
+		ADDED from [:react-native-share] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-55
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-56
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c63f88b519e110a83de3f9a6f7be0a53\firebase-messaging-15.0.2\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c63f88b519e110a83de3f9a6f7be0a53\firebase-messaging-15.0.2\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c63f88b519e110a83de3f9a6f7be0a53\firebase-messaging-15.0.2\AndroidManifest.xml:29:13-82
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ba2c2e6c28dd502d46f2aab5b7ac81cf\firebase-auth-15.0.0\AndroidManifest.xml:24:13-85
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\269617e893dc6fbe802160a7816c64dd\play-services-maps-16.1.0\AndroidManifest.xml:34:13-50
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\3fe05071723b96b02b22a094dd059ec8\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\c052f205d3fe14dba802ed96b6015566\firebase-analytics-impl-15.0.2\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\2b9a9109bbcec53abfa5fe333c8a568d\firebase-analytics-15.0.2\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:29:9-63
+permission#com.thinksolutionz.foodies.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:32:22-76
+uses-permission#com.thinksolutionz.foodies.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.thinksolutionz.foodies
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:48:27-58
+category#com.thinksolutionz.foodies
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\92c10398fb53349ef9c77c7873ad29bd\firebase-iid-15.1.0\AndroidManifest.xml:57:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\59eedc17a108754ef1bac2da19cdcf83\play-services-base-16.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\59eedc17a108754ef1bac2da19cdcf83\play-services-base-16.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\59eedc17a108754ef1bac2da19cdcf83\play-services-base-16.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\59eedc17a108754ef1bac2da19cdcf83\play-services-base-16.1.0\AndroidManifest.xml:24:13-79
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\008a0abf902a60d5f14ae18bd4cd8e33\ShortcutBadger-1.1.21\AndroidManifest.xml:50:22-86
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\7b51fc034a702081b2a4755c0ab26251\firebase-common-15.0.1\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\7b51fc034a702081b2a4755c0ab26251\firebase-common-15.0.1\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\7b51fc034a702081b2a4755c0ab26251\firebase-common-15.0.1\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\7b51fc034a702081b2a4755c0ab26251\firebase-common-15.0.1\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\7b51fc034a702081b2a4755c0ab26251\firebase-common-15.0.1\AndroidManifest.xml:9:13-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\bdba36f3c40fad738c8acf441474a8ca\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ef707d35660952764255e38336c767a0\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\ef707d35660952764255e38336c767a0\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\bdba36f3c40fad738c8acf441474a8ca\support-v4-26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Taha\.gradle\caches\transforms-2\files-2.1\bdba36f3c40fad738c8acf441474a8ca\support-v4-26.1.0\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\src\main\AndroidManifest.xml:1:1-64:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4

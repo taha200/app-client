@@ -1,0 +1,2 @@
+# Referenced at F:\React Native Practice\Food App package Name change\LaFoodiesClient-master\android\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:56
+-keep class com.thinksolutionz.foodies.MainApplication { <init>(); }

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">535292817984-3i2v9vp5rs5okaprpfmmm67tph17gkq1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://foodiesdriver.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">535292817984</string>
+    <string name="google_api_key" translatable="false">AIzaSyDqm4gBxOI_6zAPxpE9aIePR4qdg9JOR8s</string>
+    <string name="google_app_id" translatable="false">1:535292817984:android:9496358782779a544065a5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDqm4gBxOI_6zAPxpE9aIePR4qdg9JOR8s</string>
+    <string name="google_storage_bucket" translatable="false">foodiesdriver.appspot.com</string>
+    <string name="project_id" translatable="false">foodiesdriver</string>
+</resources>
